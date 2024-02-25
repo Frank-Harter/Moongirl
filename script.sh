@@ -113,8 +113,8 @@ echo "
 
 
 
-#read -p "Por favor, inserte un 'usuario@dominio'" host
-host="frank@192.168.1.122"
+read -p "Por favor, inserte un 'usuario@dominio'" host
+#host="frank@192.168.1.122"
 
 
 #Creamos la variable opcion y hacemso que sea un bucle
